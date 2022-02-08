@@ -2,3 +2,6 @@
 Sample
 Hello all .Welcome
 I'm Divya,Creating my first git sample.
+helloooooooooooo haiiiiiiiiiiiiii
+divvvyaaaaaaa
+hello world
